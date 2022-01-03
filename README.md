@@ -37,6 +37,6 @@
 <hr>
    
    
-   <li>
+   <h2>
    Follow by MERN Stack : React ,Redux ,Node ,Mongo - Pizza Delivery App - Udemy course
-</li>
+</h2>
